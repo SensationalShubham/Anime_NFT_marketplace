@@ -1,0 +1,7 @@
+Imp. commands
+
+1) npx hardhat node
+2) npx hardhat test
+3) npm run start
+4) npx hardhat run src/backend/scripts/deploy.js --network localhost
+
